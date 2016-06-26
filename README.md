@@ -16,3 +16,9 @@ Incluye los siguientes documentos:
 * Plan de garantía de calidad
 
 * Especificación de requisitos software
+
+
+
+License
+===
+[GNU GPL Version 3](https://www.gnu.org/licenses/gpl-3.0.html), more [info](http://en.wikipedia.org/wiki/GNU_General_Public_License).
